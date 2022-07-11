@@ -14,8 +14,8 @@ function App() {
   return (
     <>
       <Navbar bg="dark" variant="dark" className="header">
-        <Container>
-          <Navbar.Brand href="#home">Library - Firebase CRUD</Navbar.Brand>
+        <Container >
+          <Navbar.Brand href="#home">Book-Library</Navbar.Brand>
         </Container>
       </Navbar>
 
